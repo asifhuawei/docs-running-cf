@@ -2,7 +2,7 @@
 title: Managing Cloud Foundry
 ---
 
-* [Monitoring](./monitoring.html)
-* [Logging](./logging.html)
-* [Managing Users](../../adminguide/uaa-user-management.html)
-* [Creating and Modifying Quota Plans](./quota-plans.html)
+* [Monitoring](./monitoring.html.md.erb)
+* [Logging](./logging.html.md)
+* [Managing Users](http://docs.cloudfoundry.org/adminguide/uaa-user-management.html)
+* [Creating and Modifying Quota Plans](./quota-plans.html.md.erb)
